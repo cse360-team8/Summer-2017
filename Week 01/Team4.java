@@ -41,8 +41,10 @@ public class Team4 {
         
     }
     
+  /*
     public static void main(String[] args) {
         new Team4();
     }
+*/    
     
 }
