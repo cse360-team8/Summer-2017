@@ -8,10 +8,10 @@ public class Team5 extends JPanel {
 
   public Team5() {
 
-	  // Add border
-	  setBorder(BorderFactory.createLineBorder(Color.green, 5));
+	// Add border
+	setBorder(BorderFactory.createLineBorder(Color.green, 5));
 	  
-	  // Add names
+	// Add names
       JLabel label1 = new JLabel("Team 5:");
       JLabel label2 = new JLabel("Melissa Day,");
       JLabel label3 = new JLabel("Austin McCleary,");
