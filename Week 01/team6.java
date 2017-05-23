@@ -1,12 +1,14 @@
+
+package CSE360;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.event.*;
 
-public class team6 extends JPanel{
+public class Team6 extends JPanel{
 
 
-	public team6()
+	public Team6()
    {
 
 	//setLayout(new BorderLayout());
