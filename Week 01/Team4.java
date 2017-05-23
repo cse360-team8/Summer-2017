@@ -34,7 +34,7 @@ public class Team4 extends JPanel {
         
         b1 = new JButton("TEST");
         
-        lab = new JLabel("This is a test!");
+        lab = new JLabel("Sagarika, Ross, Sean");
         
         p.add(b1);
         p.add(lab);
