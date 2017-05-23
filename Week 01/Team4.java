@@ -24,21 +24,21 @@ public class Team4 extends JPanel {
     }
     
     public void gui(){
-        f = new JFrame("Frame");
-        f.setVisible(true);
-        f.setSize(600,400);
-        f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+  //      f = new JFrame("Frame");
+  //      f.setVisible(true);
+  //      f.setSize(600,400);
+  //      f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
-        p = new JPanel();
-        p.setBackground(Color.YELLOW);
+    //    p = new JPanel();
+          this.setBackground(Color.YELLOW);
         
         b1 = new JButton("TEST");
         
         lab = new JLabel("Sagarika, Ross, Sean");
         
-        p.add(b1);
-        p.add(lab);
-        f.add(p,BorderLayout.SOUTH);
+        this.add(b1);
+        this.add(lab);
+  //      f.add(p,BorderLayout.SOUTH);
         
     }
     
