@@ -7,7 +7,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-public class Main {
+public class ExampleGoogleMaps {
     public static void main(String[] args) throws IOException {
         JFrame test = new JFrame("Google Maps");
 
